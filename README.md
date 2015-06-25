@@ -1,2 +1,3 @@
 # d3windrose
-d3 windrose
+
+This implements a windrose visualisation in d3.js
